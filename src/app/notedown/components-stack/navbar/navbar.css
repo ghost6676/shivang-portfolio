@@ -51,4 +51,14 @@
     color: #181818;
     font-size: 12px;
   }
+
+  .navbar-logo-text {
+    font-family: var(--font-paralucentdemi);
+    font-size: 18px;
+    padding-top: 4px;
+  }
+
+  .select {
+    display: none;
+  }
 }

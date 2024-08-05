@@ -9,7 +9,7 @@ export default function Navbar() {
       </a>
       <div className="navbar-links">
         <a href="/#about">
-          <p className="navbar-text">About </p>
+          <p className="navbar-text select">About </p>
         </a>
         <a href="https://www.linkedin.com/in/shivang-singh077/" target="_blank">
           <div className="external-link">
