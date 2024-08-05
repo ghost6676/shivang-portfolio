@@ -76,12 +76,14 @@ p {
   }
 
   h2 {
+    font-family: var(--font-paralucentdemi);
     font-size: 48px;
     line-height: 75%;
     letter-spacing: -0.8px;
   }
 
   h1 {
+    font-family: var(--font-paralucentdemi);
     font-size: 64px;
     letter-spacing: -1px;
   }
