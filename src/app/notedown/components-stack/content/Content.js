@@ -46,7 +46,8 @@ export default function Content() {
             social media, short filmns or theatre. The company wanted a website
             that would help them get clients for their social media services and
             would also appeal to their general audience interested in cinemam,
-            all while positioning them as "The future of content production".
+            all while positioning them as &ldquo;The future of content
+            production&rdquo;.
           </p>
           <div className="intro-box">
             <div className="intro-box-inner">
@@ -182,8 +183,8 @@ export default function Content() {
         <div className="stack-textbox">
           <p className="stack-subtext">Proposed Solution</p>
           <h2 className="stack-heading">
-            A Brand and Website refresh to define a new approach for NoteDown's
-            positioning and services.
+            A Brand and Website refresh to define a new approach for
+            NoteDown&#39;s positioning and services.
           </h2>
         </div>
       </div>
