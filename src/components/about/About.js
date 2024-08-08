@@ -10,7 +10,7 @@ export default function Hero() {
         <br />
         I&#39;m currently pursuing my Bachelors in the field of Information
         Technology. I&#39;ve always been a keen admirer of visually beautiful
-        stuff so I stared graphic design in the first year of my college. I
+        stuff so I started graphic design in the first year of my college. I
         freelanced for about a year as a graphic designer. Soon, I shifted to UX
         Design as the field appealed to me as a perfect blend of visual design
         and technology.

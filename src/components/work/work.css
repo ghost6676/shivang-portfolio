@@ -77,6 +77,26 @@
   background-color: #c3b8ff;
 }
 
+.project3 {
+  background-color: #f0723c;
+}
+
+.purple {
+  color: #c3b8ff;
+}
+
+.white {
+  color: #fff;
+}
+
+.whitebg {
+  background-color: #fff;
+}
+
+.black {
+  color: #f0723c;
+}
+
 @media (max-width: 1280px) {
   .inner-text {
     margin: 72px;
@@ -128,6 +148,7 @@
 
   .work-label {
     padding: 8px 16px;
+    margin-bottom: 4px;
   }
 
   .label-text {

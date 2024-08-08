@@ -43,9 +43,9 @@ export default function Content() {
           <p className="stack-text">
             NoteDown films is a startup that aims to reimagine visual
             storytelling and bring a fresh approach to online content, be it
-            social media, short filmns or theatre. The company wanted a website
+            social media, short films or theatre. The company wanted a website
             that would help them get clients for their social media services and
-            would also appeal to their general audience interested in cinemam,
+            would also appeal to their general audience interested in cinema,
             all while positioning them as &ldquo;The future of content
             production&rdquo;.
           </p>

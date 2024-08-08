@@ -207,6 +207,13 @@ ul {
   object-fit: cover;
 }
 
+.sitar-img {
+  padding-top: 112px;
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
 .section5-graphic-innerbox {
   display: flex;
   flex-direction: column;
