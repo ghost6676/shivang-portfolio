@@ -357,6 +357,10 @@ ul {
     flex-direction: column;
   }
 
+  .sitar-img {
+    padding-top: 28px;
+  }
+
   .button-textbox {
     flex-direction: column;
   }
