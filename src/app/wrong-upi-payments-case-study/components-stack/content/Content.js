@@ -70,8 +70,8 @@ export default function Content() {
               <li>Transaction cannot be reversed from the UPI application</li>
               <li>You have to contact the bank and file a complaint.</li>
               <li>
-                If the receiver's account is in a different bank, you have to
-                physically go over to that branch.
+                If the receiver&#39;s account is in a different bank, you have
+                to physically go over to that branch.
               </li>
               <li>
                 The money can be only reversed if the receiver also agrees.
@@ -148,15 +148,15 @@ export default function Content() {
             <div className="persona-box">
               <p className="persona-inner-heading">about</p>
               <p className="persona-inner-text">
-                Rahul is a college student who lives in an urban city. He's
+                Rahul is a college student who lives in an urban city. He&#39;s
                 doing his bachelors in technology.
               </p>
             </div>
             <div className="persona-box">
               <p className="persona-inner-heading">problems</p>
               <p className="persona-inner-text">
-                He has often encountered issues with wrong payments caused by typing
-                errors.
+                He has often encountered issues with wrong payments caused by
+                typing errors.
               </p>
             </div>
           </div>
