@@ -3,6 +3,7 @@ import Image from "next/image";
 import project1 from "../../../public/project1.jpg";
 import project2 from "../../../public/project2.png";
 import project3 from "../../../public/project3.png";
+import project4 from "../../../public/project4.png";
 
 export default function Work() {
   return (
@@ -44,8 +45,27 @@ export default function Work() {
           </div>
         </div>
       </a>
-      <a href="/sitar-classes">
+      <a href="/wrong-upi-payments-case-study">
         <div className="work-box project3">
+          <div className="work-box-text">
+            <div className="inner-text">
+              <div className="work-label">
+                <p className="label-text ">App Design - Sprint</p>
+              </div>
+              <h2 className="work-heading">Preventing Wrong UPI Payments</h2>
+              <p className="work-subtext">
+                New UPI feature to solve the issue of accidentaly sending money
+                to wrong person
+              </p>
+            </div>
+          </div>
+          <div className="work-box-img">
+            <Image className="project-image" src={project4} alt="image" />
+          </div>
+        </div>
+      </a>
+      <a href="/sitar-classes">
+        <div className="work-box project4">
           <div className="work-box-text">
             <div className="inner-text">
               <div className="work-label whitebg">
