@@ -273,8 +273,8 @@ export default function Content() {
         <div className="stack-textbox">
           <p className="stack-subtext">Next Steps</p>
           <p className="stack-text short">
-            By collaborating with banks and UPI, a more robust undo feature can
-            be implemented.
+            By collaborating with banks and UPI, a more robust method to undo
+            transactions can be implemented.
           </p>
         </div>
         <div className="section9-graphic">
