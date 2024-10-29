@@ -155,7 +155,7 @@ export default function Content() {
             <div className="persona-box">
               <p className="persona-inner-heading">problems</p>
               <p className="persona-inner-text">
-                He has encountered issues with wrong payments caused by typing
+                He has often encountered issues with wrong payments caused by typing
                 errors.
               </p>
             </div>
